@@ -62,9 +62,7 @@ This project is specifically designed for:
 
 The interface and workflows are intentionally kept simple and focused, so users can concentrate on understanding hardware design concepts, not tooling complexity.
 
-## 📄 License
+## License
 
-This project is released under an open-source license.
-
----
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
